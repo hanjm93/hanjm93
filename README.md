@@ -2,38 +2,19 @@
 
 **Software Developer · Android · Backend · Cloud**
 
-I build Android apps and Spring Boot backends, and have worked with AWS, GCP, and MongoDB.
+I build Android applications and Spring Boot backends, with experience working across cloud platforms and databases.
 I also create projects with Python.
 
-My work projects are maintained in the [IndexFinger organization repositories](https://github.com/orgs/indexfinger-Corp/repositories).
-Below are the technologies I have worked with and a selection of my public projects.
+## Development Experience
 
-## Tech Stack
-
-| Area | Technologies |
+| Area | Experience & Technologies |
 | --- | --- |
-| Mobile | Android |
-| Backend | Spring Boot |
-| Cloud | AWS · Google Cloud Platform (GCP) |
-| Database | MongoDB |
-| Programming | Python |
+| Mobile | Android application development |
+| Backend | Backend service development with Spring Boot |
+| Cloud | Working with AWS and Google Cloud Platform (GCP) |
+| Database | Using MongoDB in projects |
+| Python | Building projects with Python |
 
-## Selected Work
+## Organization Work
 
-### [Android Address Search Integration](https://github.com/hanjm93/hanjm93.github.io)
-
-A web page that integrates Daum Postcode search with an Android WebView.
-The selected street or lot-number address is sent to the app via `window.Android.postMessage()`.
-
-`Android WebView` · `JavaScript` · `Daum Postcode`
-
-### [Herdr Done Timer](https://github.com/hanjm93/herdr-plugin-done-timer)
-
-A Herdr plugin that displays the remaining prompt cache lifetime in the agent panel.
-It reads agent session transcripts to show a countdown and an expired state.
-
-`Bash` · `jq` · `Perl` · `Developer Tools`
-
-## Learning
-
-[machine-learning](https://github.com/hanjm93/machine-learning) — A fork of [teddylee777/machine-learning](https://github.com/teddylee777/machine-learning) containing Python and machine learning study resources.
+My professional work includes contributions to projects in the [IndexFinger organization](https://github.com/orgs/indexfinger-Corp/repositories).
